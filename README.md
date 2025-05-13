@@ -15,8 +15,6 @@ This project demonstrates a full-stack implementation of an intelligent chatbot 
 - 🛠️ **Data cleaning & preprocessing** using Pandas and custom filters
 - 🌐 **Django web interface** for real-time interactions
 - 🎯 Achieved **71% conversational accuracy** after extensive training
-- 👥 Supports multiple users and sessions
-
 ---
 
 ## 🧱 Tech Stack
