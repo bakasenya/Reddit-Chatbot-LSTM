@@ -2,6 +2,9 @@
 
 A Django-based chatbot platform inspired by Reddit's community interaction model. Trained on over **20 million Q&A pairs** from Reddit (2019), this chatbot uses deep learning techniques to engage in meaningful conversations in real-time.
 
+![Chatbot UI](/model_image.png)
+
+
 ## 🔍 Project Overview
 
 This project demonstrates a full-stack implementation of an intelligent chatbot using Natural Language Processing (NLP) and Deep Learning (DL). The backend is powered by a **seq2seq LSTM model**.
@@ -28,4 +31,3 @@ This project demonstrates a full-stack implementation of an intelligent chatbot 
 | Frontend        | HTML, CSS (Django templates)      |
 
 ---
-![Chatbot UI](/model_image.png)
