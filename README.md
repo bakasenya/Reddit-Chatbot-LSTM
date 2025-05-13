@@ -28,3 +28,4 @@ This project demonstrates a full-stack implementation of an intelligent chatbot 
 | Frontend        | HTML, CSS (Django templates)      |
 
 ---
+![Chatbot UI](/model image.png)
